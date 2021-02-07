@@ -1,0 +1,32 @@
+#navbar {
+    background: #000000;
+    padding: 13px 0;
+}
+
+#navbar #widget ul li {
+	font-size: 13px;
+	color: #c4c4c4;
+	list-style: none;
+	display: inline-block;
+	margin-right: 30px;
+	position: relative;
+}
+
+#navbar #widget ul li.signup-open {
+	cursor: pointer;
+}
+
+#navbar #widget ul li i {
+	font-size: 14px;
+	color: #ffffff;
+	margin-right: 5px;
+}
+
+.logo {
+	background: #000000;
+	padding: 44px 0;
+}
+
+.logo a {
+	display: inline-block;
+}
